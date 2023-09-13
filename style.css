@@ -1169,7 +1169,9 @@ footer{
         display: none;
     }
     .img-hero img{
-        width: 100%;
+        width: 70%;
+        top: 10px;
+        left: 20px;
     }
     .text-animate{
         width: 23.8rem;
